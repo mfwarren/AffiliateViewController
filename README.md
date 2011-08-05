@@ -17,7 +17,7 @@ Using Affiliate View Controller:
 
 1. Download the code from GitHub:
 
-        git clone git://github.com/johnboxall/django-paypal.git paypal
+        git clone git@github.com:mfwarren/AffiliateViewController.git
 
 1. Copy code into your project
 
